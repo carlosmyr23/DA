@@ -9,5 +9,4 @@ sudo docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=<Tu_contraseña>' -e 'M
 
 #Vemos si existe el contenedor con el siguiente comando 
 docker ps -a
-
-# 
+#####
